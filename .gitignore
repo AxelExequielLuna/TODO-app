@@ -1,0 +1,23 @@
+# Archivos de configuración locales
+.env
+
+# Directorio de archivos estáticos generados
+/staticfiles/
+
+# Directorio de archivos de migraciones de la base de datos
+/migrations/
+base/migrations/
+
+# Archivo de la base de datos SQLite (si estás usando SQLite)
+db.sqlite3
+
+# Archivo de registro de errores
+logs/
+
+# Directorio virtualenv (si estás usando uno)
+/venv/
+
+#cahe de python
+__pycache__/
+/base/__pycache__
+
